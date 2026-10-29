@@ -1,0 +1,25 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: RidoyFarhad.Unhoard
+PackageVersion: 0.1.0
+PackageLocale: en-US
+Publisher: Ridoy Farhad
+PublisherUrl: https://github.com/ridoyf
+PublisherSupportUrl: https://github.com/ridoyf/unhoard/issues
+PackageName: Unhoard
+PackageUrl: https://github.com/ridoyf/unhoard
+License: MIT
+Copyright: (c) 2026 Ridoy Farhad
+ShortDescription: Unhoard Installer
+Tags:
+- cleanup
+- disk-space
+- disk-usage
+- go
+- svelte
+- wails
+- windows
+ReleaseNotesUrl: https://github.com/ridoyf/unhoard/releases/tag/v0.1.0
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
